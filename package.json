@@ -1,0 +1,17 @@
+{
+  "name": "repbot",
+  "version": "1.0.0",
+  "description": "a reputation bot for discord",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Stephen Adams",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "dotenv": "^8.2.0",
+    "node-sqlite": "0.0.2-security",
+    "sqlite3": "^4.1.0"
+  }
+}
